@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>543651517383-1fvdjflnhjp1jtb2ub9pm4dpk0s8nq4n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.543651517383-1fvdjflnhjp1jtb2ub9pm4dpk0s8nq4n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDeM1oz0GAhuoBiZP5SekEcKedTQX2wJdY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>543651517383</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ALGHAZI</string>
+	<key>PROJECT_ID</key>
+	<string>ghazi-455d7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ghazi-455d7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:543651517383:ios:6eab0842eb6d261c817fe2</string>
+	<key>DATABASE_URL</key>
+	<string>https://ghazi-455d7.firebaseio.com</string>
+</dict>
+</plist>
